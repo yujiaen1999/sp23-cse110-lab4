@@ -85,7 +85,7 @@ rareCars: 2
 
 ### 17. Answer of question17:
 
-The result id [2, 4, 6]. We input the array [1, 2, 4] and function doSomething to function modifyArray. The function doSomething take a input integer and return the doubled integer out. Inside the function modifyArray, we iterate each integer of the input array, put them into the function doSomething, then push the doubled result to the newArr array, and return the newArr as result.
+- The result id [2, 4, 6]. We input the array [1, 2, 4] and function doSomething to function modifyArray. The function doSomething take a input integer and return the doubled integer out. Inside the function modifyArray, we iterate each integer of the input array, put them into the function doSomething, then push the doubled result to the newArr array, and return the newArr as result.
 
 ### 18. Answer in part2-question18.js
 
